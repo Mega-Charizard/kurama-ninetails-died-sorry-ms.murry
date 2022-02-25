@@ -1,32 +1,18 @@
-.heading
+body
 {
-    font-size: 22px;
-    width: 100%;
-    margin: 0px;
-    box-shadow: 5px 5px 5px black;
+    background-color: greenyellow;
 }
 
-.note
+#score
 {
-    font-size: 15px;
-    color: black;
-}
-
-.copy_right_footer
-{
+    font-size: 50px;
     position: fixed;
-    bottom: 0px;
-    background-color: silver;
-    padding: 10px;
-    width: 100%;
-    font-size: 18px;
-    font-weight: bold;
+    color: fuchsia;
+    left: 5px;
 }
 
-canvas
+#stbd
 {
-    border: 5px solid black;
-    border-radius: 10px;
-    box-shadow: black;
-
+    color: fuchsia;
+    font-size: 25px;
 }
